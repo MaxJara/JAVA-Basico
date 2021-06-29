@@ -16,6 +16,6 @@ public class IncrementDecrement {
         int gift = 100 + lives++; //postfijo
         System.out.println(gift);
         System.out.println(lives); //5
-        
+
     }
 }
